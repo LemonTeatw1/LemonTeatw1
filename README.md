@@ -2,7 +2,6 @@
 
 ###
 
-<br clear="both">
 
 <h3 align="left">My name is Alvin you can also call me LemonTea a developer from Taiwan</h3>
 
