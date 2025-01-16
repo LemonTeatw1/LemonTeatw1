@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="30" alt="fedora logo"  />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" height="30" alt="Arch logo" />
 </div>
 
 ###
@@ -105,6 +106,7 @@
   <img src="https://streak-stats.demolab.com?user=LemonTeatw1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=LemonTeatw1&theme=monokai&column=-1&row=3&margin-w=12&margin-h=9&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LemonTeatw1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  
 </div>
 
 ###
