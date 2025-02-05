@@ -3,7 +3,7 @@
 ###
 
 
-<h3 align="left">My name is Alvin you can also call me LemonTea a developer from Taiwan</h3>
+<h3 align="left">My name is Alvin you can also call me LemonTea I am a developer from Taiwan</h3>
 
 ###
 
